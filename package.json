@@ -1,0 +1,11 @@
+{
+  "name": "vue-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/honestxll/vue-notes.git",
+  "author": "13451883267 <1131328108@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "browser-sync start --server --no-notify --files 'index.html, *.css, *.js'"
+  }
+}
